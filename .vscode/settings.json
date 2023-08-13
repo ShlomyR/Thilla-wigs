@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "axios",
+        "firestore",
+        "popperjs",
+        "signin",
+        "VITE"
+    ],
+    "vue3snippets.enable-compile-vue-file-on-did-save-code": false
+}
