@@ -8,6 +8,8 @@ images
 firestore.indexes.json
 firebase.json
 AxiosManeger.ts
+firestore.rules
+firebase.ts
 
 # local env files
 .env.local
