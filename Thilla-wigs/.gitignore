@@ -4,6 +4,10 @@ node_modules
 thilla-wigs-firebase-adminsdk-i7sve-057422fdfb.json
 images
 .firebase
+.firebaserc
+firestore.indexes.json
+firebase.json
+AxiosManeger.ts
 
 # local env files
 .env.local
@@ -23,3 +27,9 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+#fix gitignore
+# 1.  git rm -r --cached .
+# 2. git status
+# 3. git add .
+# 4. git commit -m "fixed untracked files"
